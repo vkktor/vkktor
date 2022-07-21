@@ -26,14 +26,12 @@ if __name__ == '__main__':
 
 ## <p align="center"> My Statistics
 
-<br/>
-<p align="left">
+<div align="center">
   <a href="https://github.com/vkktor">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vkktor&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkktor&langs_count=4&theme=dracula&hide_border=true"/>
-  </a>
-</p>
-<br>
+  <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vkktor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkktor&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</div>
+
 
 <p align="center">
   <img src="https://github.com/vkktor/vkktor/blob/output/github-contribution-grid-snake.svg"/>
