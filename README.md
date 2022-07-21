@@ -1,16 +1,40 @@
-### Hi there 👋
+<p align="center"> Yo, my name is <b>Victor</b>, I'm a 21 years old business administration student from Brazil.
 
-<!--
-**vkktor/vkktor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Vkktor():
+    
+  def __init__(self):
+    self.name = "Victor C. Silva";
+    self.username = "vkktor";
+    self.location = "São Paulo, Brasil";
+    self.web = "https://github.com/vkktor";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = Vkttor()
+```
+
+## <p align="center"> My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://github.com/vkktor">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vkktor&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkktor&langs_count=4&theme=dracula&hide_border=true"/>
+  </a>
+</p>
+<br>
+
+<p align="center">
+  <img src="https://github.com/vkktor/vkktor/blob/output/github-contribution-grid-snake.svg"/>
+</p>
